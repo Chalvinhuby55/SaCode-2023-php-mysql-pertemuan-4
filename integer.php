@@ -19,7 +19,7 @@ $kali = $angka_satu * $angka_dua;
 // Pembagian
 $bagi = $angka_satu / $angka_dua;
 
-
+$perhitungan = 1 + 2 * 3;
 
 
 //var_dump($angka_satu);
@@ -46,5 +46,8 @@ $bagi = $angka_satu / $angka_dua;
     <p><?=$kali?></p>
     <P>Pembagian</P>
     <P><?=$bagi?></P>
+    <P>Perhitungan</P>
+    <P><?=$perhitungan?></P>
+
 </body>
 </html>
